@@ -1,6 +1,6 @@
 # survival_of_the_fittest
 
-A survival analysis of A rated restaurants in NYC
+## A survival analysis of A rated restaurants in NYC
 
 This analysis looks specifically on restaurants which originally achieved an A rating as their initial grade from the Department of Health with the aim of understanding how long such restaurants on average retain their grade.
 
